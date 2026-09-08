@@ -1,0 +1,21 @@
+Dirección de Nico: d081cc5a13e24cc44db13cd47ee1c5e45e4daba0f626c55786c6562a12f94df1
+Dirección de Ana: 1b0af7193a7b6f7ba040e2b0f1f570e6515a724fe4e1b16f0633f439846ee016
+
+Transacción válida añadida al mempool.
+
+Minando bloque...
+Bloque 1 minado. Nonce: 85366 | Hash: 0000a3a1a97ef39d46373eab1a50eb71e14a32d641b898f6e820061dbb6c6aa8
+
+Balance de Nico: 30
+Balance de Ana: 20
+
+>>> Probando una firma falsificada (Ana intenta gastar en nombre de Nico) <<<
+Correcto: el sistema RECHAZÓ la firma inválida antes de entrar al mempool.
+
+=== Comparación de tiempos de minado ===
+Bloque 99 minado. Nonce: 358 | Hash: 00e0f6a17bf9e9dd26215562d891859ced3e302c27ac381ed47b395532bc7424
+Dificultad 2: 0.0022 segundos, nonce final = 358
+Bloque 99 minado. Nonce: 10635 | Hash: 000142a89572d88dbb43f3d590cd0703b94d4a7cb74efb6d75eca5376e644da7
+Dificultad 3: 0.0701 segundos, nonce final = 10635
+Bloque 99 minado. Nonce: 197505 | Hash: 00001d288c863f5a2508a48909859f25122bda259d114f1f7823b92a35d9af60
+Dificultad 4: 1.3111 segundos, nonce final = 197505
