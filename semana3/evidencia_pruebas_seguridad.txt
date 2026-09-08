@@ -1,0 +1,12 @@
+============================= test session starts =============================
+platform win32 -- Python 3.14.7, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\MSI\AppData\Local\Programs\Python\Python314\python.exe
+cachedir: .pytest_cache
+rootdir: D:\Trabajos\NuevasTecDes\criptonico\semana3
+collecting ... collected 4 items
+
+test_seguridad.py::test_a_rechazo_firma_invalida PASSED                  [ 25%]
+test_seguridad.py::test_b_deteccion_manipulacion_bloque_confirmado PASSED [ 50%]
+test_seguridad.py::test_c_rechazo_doble_gasto PASSED                     [ 75%]
+test_seguridad.py::test_bloque_genesis_existe PASSED                     [100%]
+
+============================== 4 passed in 0.24s ==============================
